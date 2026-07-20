@@ -4,7 +4,7 @@ SilentVoice is a wearable sign-language recognition glove built with an Arduino,
 
 Full build guide (parts list, wiring, and assembly photos): [Build Your Own Sign Language Recognition Glove](https://www.instructables.com/Build-Your-Own-Sign-Language-Recognition-Glove-Usi)
 
-<img width="1149" height="781" alt="image" src="https://github.com/user-attachments/assets/c4f48e69-8542-4d25-8b6b-aa78c8d544b7" />
+<img width="454" height="680" alt="image" src="https://github.com/user-attachments/assets/f303e2c4-a0a6-40de-b945-79efa0b0fe2c" />
 
 
 ## How It Works
@@ -23,7 +23,7 @@ Full build guide (parts list, wiring, and assembly photos): [Build Your Own Sign
 
 See the Instructable linked above for the full wiring diagram and voltage-divider setup for the flex sensors.
 
-![Uploading image.png…]()
+<img width="1137" height="781" alt="image" src="https://github.com/user-attachments/assets/ca5d7617-96cd-41d1-8def-590bc4b562bc" />
 
 
 ## Gesture Map
